@@ -18,6 +18,7 @@ public class RandomTextMessageService implements MessageService{
             "Wiadomosc8",
             "Wiadomosc9",
             "Wiadomosc10"
+
     };
 
     @Override
